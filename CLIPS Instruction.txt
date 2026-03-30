@@ -1,0 +1,5 @@
+After install ClIPS and open it
+Click "Environment" then click "Load Constructs"
+Select the code you want
+After loading the code, put "run" then hit enter
+The program starts running
